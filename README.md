@@ -1,4 +1,4 @@
-<h1>🙋‍♂️ Hi, I'm Justin! <br/><a href="https://github.com/JustinAlchemicTech">IT Professional</a>, <a href="https://www.linkedin.com/in/justin-mrowicki/">Certified Cybersecurity Analyst</a>
+<h1>🙋‍♂️ Hi, I'm Justin! <br/><a href="https://github.com/JustinAlchemicTech">IT Professional | </a> <a href="https://www.linkedin.com/in/justin-mrowicki/">Certified Cybersecurity Analyst</a>
 
 <h2> 🏫Education/Certifications:</h2>
 
