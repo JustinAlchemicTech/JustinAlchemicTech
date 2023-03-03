@@ -1,6 +1,6 @@
-<h1>Hi, I'm Justin! <br/><a href="https://github.com/JustinAlchemicTech">IT Professional</a>, <a href="https://www.linkedin.com/in/justin-mrowicki/">Certified Cybersecurity Analyst</a>
+<h1>🙋‍♂️ Hi, I'm Justin! <br/><a href="https://github.com/JustinAlchemicTech">IT Professional</a>, <a href="https://www.linkedin.com/in/justin-mrowicki/">Certified Cybersecurity Analyst</a>
 
-<h2>👨‍💻 Education/Certifications:</h2>
+<h2> 🏫Education/Certifications:</h2>
 
 - <b>Education:</b> 
   - [BSc. in Biology from Eckerd College](https://drive.google.com/file/d/1adWTMijqqVh3uP1v2ANki4PmUM0RKSw7/view?usp=share_link)
@@ -19,16 +19,16 @@
   - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
   - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
   
-<h2>👨‍💻 Coding Projects:</h2>
+<h2>💻 Coding Projects:</h2>
 
 - <b>Python</b>
   - [Simple Cat Image Generator]()
 
-<h2>👨‍💻 Web Design Projects:</h2>
+<h2>🕸 Web Design Projects:</h2>
 
 - [Alchemic Technology](https://alchemictech.com/)
 
-<h2>📺 Popular Blog Posts</h2>
+<h2>📰 Popular Blog Posts</h2>
 
 - [Top 5 Web Hosting Companies for 2023 - A Comprehensive Review](https://alchemictech.com/top-5-web-hosting-companies-for-2023-a-comprehensive-review)
 - [NIST Cybersecurity Framework: A Basic Comprehensive Guide to Enhance Your Organization's Cyber Defense Strategy](https://alchemictech.com/nist-cybersecurity-framework-a-basic-comprehensive-guide-to-enhance-your-organizations-cyber-defense-strategy)
@@ -36,8 +36,8 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-- Linkedin: (https://www.linkedin.com/in/justin-mrowicki/)
-- About: (https://alchemictech.com/about)
+- [LinkedIn](https://www.linkedin.com/in/justin-mrowicki/)
+- [About](https://alchemictech.com/about)
 - Email: 
   - jmrowicki@alchemictech.com
   - alchemictechnology@gmail.com
