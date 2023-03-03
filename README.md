@@ -36,9 +36,11 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="Justin Mrowicki | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-[Linkedin]: (https://www.linkedin.com/in/justin-mrowicki/)
+- Linkedin: (https://www.linkedin.com/in/justin-mrowicki/)
+- About: (https://alchemictech.com/about)
+- Email: 
+  - jmrowicki@alchemictech.com
+  - alchemictechnology@gmail.com
 
 <!--
 **JustinAlchemicTech/JustinAlchemicTech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
