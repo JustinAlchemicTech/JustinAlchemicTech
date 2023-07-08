@@ -23,7 +23,7 @@
 - <b>Python</b>
   - [Simple Cat Image Generator](https://github.com/JustinAlchemicTech/Simple-Cat-Image-Generator-Python-)
 
-<h2>🕸 AI Projects:</h2>
+<h2>🤖 AI Projects:</h2>
 
 - [Simple Custom GPT JARVIS Chatbot Interface]()
 - [Complex Custom GPT JARVIS Chatbot Interface]()
