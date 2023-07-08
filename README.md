@@ -14,6 +14,15 @@
   - [InfoSec: Python for Cybersecurity](https://drive.google.com/file/d/1ciwIwatTloMb3Ju59SxjKIHJgag3BhtY/view?usp=share_link)
   - [HTML Basics](https://drive.google.com/file/d/1M9sj2EAfDiId6YFcinjfelUOFZwQZaeT/view?usp=share_link)
   - [CSS Basics](https://drive.google.com/file/d/11TWWNSw42jTMl0XhIb1jwI6eNbXt5qhG/view?usp=share_link)
+  - [Javascript Basics](https://drive.google.com/file/d/1vIDqLe8OvK7jk4C20pk_BWhycLuAutxq/view)
+  - [Python Basics](https://drive.google.com/file/d/1W-OPvDCIOPYhpCl6BGnngbpl2hiTB0GV/view)
+  - [Python Advanced](https://drive.google.com/file/d/1LTkESs8pnXcdWHKTrkqpLhzSjc56VLwn/view)
+  - [Python for AI](https://drive.google.com/file/d/1NsWtp8dcOpwt9URvQ40-U4R4Omt2SMxl/view)
+  - [AI Fundamentals](https://drive.google.com/file/d/187NqO7ssAIb0lBFVLWKVMQFQNq8H2KbD/view)
+  - [Programming Fundamentals](https://drive.google.com/file/d/1Fc3uQEYw1OiAOl3QOmgtEETXlMqJp0Fd/view)
+  - [Natural Language Processing](https://drive.google.com/file/d/1Es8eJGjmHcmnQrQ6diAXCpvRE-wYeNRW/view)
+  - [Building a Website](https://drive.google.com/file/d/1LYX2-Jp3BpPJDXLGMh0AfMDwdcBmL1vR/view)
+  - [Search Engine Optimization](https://drive.google.com/file/d/1sFsMUb4Y351xW5f7Jxfe5TXlRwx4BTqv/view)
 
 <h2>🤖 AI Coding Projects:</h2>
 
