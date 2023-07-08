@@ -48,7 +48,6 @@
 <h2> 🤳 Connect with me:</h2>
 
 - [LinkedIn](https://www.linkedin.com/in/justin-mrowicki/)
-- [About](https://alchemictech.com/about)
 - Email: 
   - jmrowicki@alchemictech.com
   - alchemictechnology@gmail.com
