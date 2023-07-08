@@ -1,4 +1,4 @@
-<h1>🙋‍♂️ Hi, I'm Justin! <br/><a Founder and CTO | </a> <a href="https://www.alchemictech.com/about#justinmrowicki"> Freelance Writer | </a> <a href="https://www.upwork.com/freelancers/~018d016bb29ec48e83?s=1534904462442053632">
+<h1>🙋‍♂️ Hi, I'm Justin!<br/><a Founder and CTO | </a> <a href="https://www.alchemictech.com/about#justinmrowicki">Freelance Writer|</a> <a href="https://www.upwork.com/freelancers/~018d016bb29ec48e83?s=1534904462442053632">
 
 <h2> 🏫Education/Certifications:</h2>
 
