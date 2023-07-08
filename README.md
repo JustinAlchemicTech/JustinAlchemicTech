@@ -17,8 +17,8 @@
 
 <h2>🤖 AI Coding Projects:</h2>
 
-- [Simple Custom GPT JARVIS Chatbot Interface]()
-- [Complex Custom GPT JARVIS Chatbot Interface (Active Development)]()
+- [Simple Custom GPT JARVIS Chatbot Interface](https://github.com/JustinAlchemicTech/Simple-Custom-GPT-Chatbot-WORKING)
+- [Complex Custom GPT JARVIS Chatbot Interface (Active Development)](https://github.com/JustinAlchemicTech/Complex-GPT-Chatbot-Interface-AD)
 
 <h2>👨‍💻 IT/Cybersecurity Projects:</h2>
 
