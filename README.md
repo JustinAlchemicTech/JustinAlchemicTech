@@ -27,8 +27,7 @@
 
 <h2>💻 Coding Projects:</h2>
 
-- <b>Python</b>
-  - [Simple Cat Image Generator](https://github.com/JustinAlchemicTech/Simple-Cat-Image-Generator-Python-)
+  - [Simple Cat Image Generator (Python)](https://github.com/JustinAlchemicTech/Simple-Cat-Image-Generator-Python-)
 
 <h2>🕸 Web Design Projects:</h2>
 
