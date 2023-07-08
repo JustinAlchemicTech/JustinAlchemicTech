@@ -16,7 +16,7 @@
 <h2>🤖 AI Projects:</h2>
 
 - [Simple Custom GPT JARVIS Chatbot Interface]()
-- [Complex Custom GPT JARVIS Chatbot Interface]()
+- [Complex Custom GPT JARVIS Chatbot Interface (Active Development)]()
 
 <h2>👨‍💻 IT/Cybersecurity Projects:</h2>
 
