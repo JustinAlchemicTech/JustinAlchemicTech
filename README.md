@@ -1,6 +1,6 @@
 <h1>🙋‍♂️ Hi, I'm Justin!</h1>
   
-[Founder and CTO](https://www.alchemictech.com/about#justinmrowicki) | [Freelance Writer](https://www.upwork.com/freelancers/~018d016bb29ec48e83?s=1534904462442053632)
+[Founder and CTO](https://www.alchemictech.com/about#justinmrowicki) | [Freelance Writer](https://www.upwork.com/freelancers/~018d016bb29ec48e83?s=1534904462442053632) 
 
 <h2> 🏫Education/Certifications:</h2>
 
@@ -41,6 +41,10 @@
 - [Top 5 Web Hosting Companies for 2023 - A Comprehensive Review](https://alchemictech.com/top-5-web-hosting-companies-for-2023-a-comprehensive-review)
 - [NIST Cybersecurity Framework: A Basic Comprehensive Guide to Enhance Your Organization's Cyber Defense Strategy](https://alchemictech.com/nist-cybersecurity-framework-a-basic-comprehensive-guide-to-enhance-your-organizations-cyber-defense-strategy)
 - [10 Easy Steps to Secure Your Data and Online Accounts: A Guide for the Average Person](https://alchemictech.com/10-easy-steps-to-secure-your-data-and-online-accounts-a-guide-for-the-average-person)
+
+<h2>📲Software Research</h2>
+
+- [Home Security Heroes](https://www.homesecurityheroes.com/about/#person-3)
 
 <h2> 🤳 Connect with me:</h2>
 
