@@ -13,6 +13,11 @@
   - [HTML Basics](https://drive.google.com/file/d/1M9sj2EAfDiId6YFcinjfelUOFZwQZaeT/view?usp=share_link)
   - [CSS Basics](https://drive.google.com/file/d/11TWWNSw42jTMl0XhIb1jwI6eNbXt5qhG/view?usp=share_link)
 
+<h2>🤖 AI Projects:</h2>
+
+- [Simple Custom GPT JARVIS Chatbot Interface]()
+- [Complex Custom GPT JARVIS Chatbot Interface]()
+
 <h2>👨‍💻 IT/Cybersecurity Projects:</h2>
 
 - <b>PowerShell</b>
@@ -22,11 +27,6 @@
 
 - <b>Python</b>
   - [Simple Cat Image Generator](https://github.com/JustinAlchemicTech/Simple-Cat-Image-Generator-Python-)
-
-<h2>🤖 AI Projects:</h2>
-
-- [Simple Custom GPT JARVIS Chatbot Interface]()
-- [Complex Custom GPT JARVIS Chatbot Interface]()
 
 <h2>🕸 Web Design Projects:</h2>
 
