@@ -22,7 +22,6 @@
 
 <h2>👨‍💻 IT/Cybersecurity Projects:</h2>
 
-- <b>PowerShell</b>
   - [Active Directory Bulk User Creation](https://github.com/JustinAlchemicTech/Active-Directory-Home-Lab)
 
 <h2>💻 Coding Projects:</h2>
