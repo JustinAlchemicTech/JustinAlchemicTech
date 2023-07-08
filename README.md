@@ -15,7 +15,7 @@
   - [HTML Basics](https://drive.google.com/file/d/1M9sj2EAfDiId6YFcinjfelUOFZwQZaeT/view?usp=share_link)
   - [CSS Basics](https://drive.google.com/file/d/11TWWNSw42jTMl0XhIb1jwI6eNbXt5qhG/view?usp=share_link)
 
-<h2>🤖 AI Projects:</h2>
+<h2>🤖 AI Coding Projects:</h2>
 
 - [Simple Custom GPT JARVIS Chatbot Interface]()
 - [Complex Custom GPT JARVIS Chatbot Interface (Active Development)]()
@@ -41,7 +41,7 @@
 - [NIST Cybersecurity Framework: A Basic Comprehensive Guide to Enhance Your Organization's Cyber Defense Strategy](https://alchemictech.com/nist-cybersecurity-framework-a-basic-comprehensive-guide-to-enhance-your-organizations-cyber-defense-strategy)
 - [10 Easy Steps to Secure Your Data and Online Accounts: A Guide for the Average Person](https://alchemictech.com/10-easy-steps-to-secure-your-data-and-online-accounts-a-guide-for-the-average-person)
 
-<h2>📲Software Research</h2>
+<h2>📲 Software Research</h2>
 
 - [Home Security Heroes](https://www.homesecurityheroes.com/about/#person-3)
 
