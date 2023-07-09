@@ -52,7 +52,11 @@
 - [NIST Cybersecurity Framework: A Basic Comprehensive Guide to Enhance Your Organization's Cyber Defense Strategy](https://alchemictech.com/nist-cybersecurity-framework-a-basic-comprehensive-guide-to-enhance-your-organizations-cyber-defense-strategy)
 - [10 Easy Steps to Secure Your Data and Online Accounts: A Guide for the Average Person](https://alchemictech.com/10-easy-steps-to-secure-your-data-and-online-accounts-a-guide-for-the-average-person)
 
-<h2>📲 Software Research</h2>
+<h2>🎨 Graphic Design: </h2>
+
+- [Stone Digital Design](https://www.etsy.com/shop/StoneDigitalDesigns)
+
+<h2>📲 Software Research: </h2>
 
 - [Home Security Heroes](https://www.homesecurityheroes.com/about/#person-3)
 
