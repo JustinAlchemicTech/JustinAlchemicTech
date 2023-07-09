@@ -1,6 +1,6 @@
 <h1>🙋‍♂️ Hi, I'm Justin!</h1>
   
-[Founder and CTO](https://www.alchemictech.com/about#justinmrowicki) | [Freelance Writer](https://www.upwork.com/freelancers/~018d016bb29ec48e83?s=1534904462442053632) | Web Designer | [Graphic Designer](https://www.etsy.com/shop/StoneDigitalDesigns) | [Video Editor](https://m.youtube.com/@stonepanda4117/videos)| AI Programmer + Prompt Engineer
+[Founder and CTO](https://www.alchemictech.com/about#justinmrowicki) | [Freelance Writer](https://www.upwork.com/freelancers/~018d016bb29ec48e83?s=1534904462442053632) | Web Designer | [Graphic Designer](https://www.etsy.com/shop/StoneDigitalDesigns) | [Video Editor](https://m.youtube.com/@stonepanda4117/videos) | AI Programmer + Prompt Engineer
 
 <h2> 🏫Education/Certifications:</h2>
 
