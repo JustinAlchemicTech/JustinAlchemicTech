@@ -33,7 +33,7 @@
 
   - [Active Directory Bulk User Creation](https://github.com/JustinAlchemicTech/Active-Directory-Home-Lab)
   - [Azure Sentinel SIEM with Live Honeypot Lab](https://github.com/JustinAlchemicTech/Azure-Sentinel-SIEM-with-Live-Honeypot)
-  - [Laptop Power Supply Hardware Troubleshooting and Repair]
+  - [Laptop Power Supply Hardware Troubleshooting and Repair](https://github.com/JustinAlchemicTech/Laptop-Power-Supply-Hardware-Troubleshooting-and-Repair)
 
 <h2>💻 Coding Projects:</h2>
 
