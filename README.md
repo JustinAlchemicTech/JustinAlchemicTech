@@ -31,13 +31,13 @@
 
 <h2>👨‍💻 IT/Cybersecurity Projects:</h2>
 
-  - [Active Directory Bulk User Creation](https://github.com/JustinAlchemicTech/Active-Directory-Home-Lab)
-  - [Azure Sentinel SIEM with Live Honeypot Lab](https://github.com/JustinAlchemicTech/Azure-Sentinel-SIEM-with-Live-Honeypot)
-  - [Laptop Power Supply Hardware Troubleshooting and Repair](https://github.com/JustinAlchemicTech/Laptop-Power-Supply-Hardware-Troubleshooting-and-Repair)
+- [Active Directory Bulk User Creation](https://github.com/JustinAlchemicTech/Active-Directory-Home-Lab)
+- [Azure Sentinel SIEM with Live Honeypot Lab](https://github.com/JustinAlchemicTech/Azure-Sentinel-SIEM-with-Live-Honeypot)
+- [Laptop Power Supply Hardware Troubleshooting and Repair](https://github.com/JustinAlchemicTech/Laptop-Power-Supply-Hardware-Troubleshooting-and-Repair)
 
 <h2>💻 Coding Projects:</h2>
 
-  - [Simple Cat Image Generator (Python)](https://github.com/JustinAlchemicTech/Simple-Cat-Image-Generator-Python-)
+- [Simple Cat Image Generator (Python)](https://github.com/JustinAlchemicTech/Simple-Cat-Image-Generator-Python-)
 
 <h2>🕸 Web Design Projects:</h2>
 
@@ -55,6 +55,10 @@
 <h2>🎨 Graphic Design: </h2>
 
 - [Stone Digital Design](https://www.etsy.com/shop/StoneDigitalDesigns)
+
+<h2>🎥 Video Editing: </h2> 
+
+- [Stone Panda Gaming](https://m.youtube.com/@stonepanda4117/videos)
 
 <h2>📲 Software Research: </h2>
 
