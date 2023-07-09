@@ -60,7 +60,7 @@
 
 - [Home Security Heroes](https://www.homesecurityheroes.com/about/#person-3)
 
-<h2>📲 Published Research Papers: </h2>
+<h2>📄 Published Research Papers: </h2>
 
 - [Chronic PAH Exposures and Associated Declines in Fish Health Indices Observed for Ten Grouper Species in the Gulf of Mexico](https://scholarcommons.usf.edu/cgi/viewcontent.cgi?article=1016&context=cimage_pubs)
 - [Hepatobiliary PAHs and prevalence of pathological changes in Red Snapper](https://www.sciencedirect.com/science/article/abs/pii/S0166445X2030463X?via%3Dihub)
