@@ -60,6 +60,12 @@
 
 - [Home Security Heroes](https://www.homesecurityheroes.com/about/#person-3)
 
+<h2>📲 Published Research Papers: </h2>
+
+- [Chronic PAH Exposures and Associated Declines in Fish Health Indices Observed for Ten Grouper Species in the Gulf of Mexico](https://scholarcommons.usf.edu/cgi/viewcontent.cgi?article=1016&context=cimage_pubs)
+- [Hepatobiliary PAHs and prevalence of pathological changes in Red Snapper](https://www.sciencedirect.com/science/article/abs/pii/S0166445X2030463X?via%3Dihub)
+- [A First Comprehensive Baseline of Hydrocarbon Pollution in Gulf of Mexico Fishes](https://www.researchgate.net/publication/340678200_A_First_Comprehensive_Baseline_of_Hydrocarbon_Pollution_in_Gulf_of_Mexico_Fishes)
+
 <h2> 🤳 Connect with me:</h2>
 
 - [LinkedIn](https://www.linkedin.com/in/justin-mrowicki/)
