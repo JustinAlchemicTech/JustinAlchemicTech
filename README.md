@@ -2,7 +2,7 @@
   
 [Founder and CTO](https://www.alchemictech.com/about#justinmrowicki) | [Freelance Writer](https://www.upwork.com/freelancers/~018d016bb29ec48e83?s=1534904462442053632) | Web Designer | [Graphic Designer](https://www.etsy.com/shop/StoneDigitalDesigns) | [Video Editor](https://m.youtube.com/@stonepanda4117/videos) | AI Programmer + Prompt Engineer
 
-<h2> 🏫Education/Certifications:</h2>
+<h2>🏫 Education/Certifications:</h2>
 
 - <b>Education:</b> 
   - [BSc. in Biology from Eckerd College](https://drive.google.com/file/d/1adWTMijqqVh3uP1v2ANki4PmUM0RKSw7/view?usp=share_link)
@@ -71,13 +71,14 @@
 - [Hepatobiliary PAHs and prevalence of pathological changes in Red Snapper](https://www.sciencedirect.com/science/article/abs/pii/S0166445X2030463X?via%3Dihub)
 - [A First Comprehensive Baseline of Hydrocarbon Pollution in Gulf of Mexico Fishes](https://www.researchgate.net/publication/340678200_A_First_Comprehensive_Baseline_of_Hydrocarbon_Pollution_in_Gulf_of_Mexico_Fishes)
 
-<h2> 🤳 Connect with me:</h2>
+<h2>🤳 Connect with me:</h2>
 
 - [LinkedIn](https://www.linkedin.com/in/justin-mrowicki/)
 - [Upwork](https://www.upwork.com/freelancers/~018d016bb29ec48e83?s=1534904462442053632)
 - Email: 
   - jmrowicki@alchemictech.com
   - alchemictechnology@gmail.com
+  - jmrowicki.writer@gmail.com
 
 <!--
 **JustinAlchemicTech/JustinAlchemicTech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
