@@ -28,6 +28,7 @@
 
 - [Simple Custom GPT JARVIS Chatbot Interface](https://github.com/JustinAlchemicTech/Simple-Custom-GPT-Chatbot-WORKING)
 - [Complex Custom GPT JARVIS Chatbot Interface (Active Development)](https://github.com/JustinAlchemicTech/Complex-GPT-Chatbot-Interface-AD)
+- [AlchemicAide, Instant IT Support AI Chatbot](https://www.alchemictech.com/instant-it)
 
 <h2>👨‍💻 IT/Cybersecurity Projects:</h2>
 
