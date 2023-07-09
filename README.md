@@ -74,6 +74,7 @@
 <h2> 🤳 Connect with me:</h2>
 
 - [LinkedIn](https://www.linkedin.com/in/justin-mrowicki/)
+- [Upwork](https://www.upwork.com/freelancers/~018d016bb29ec48e83?s=1534904462442053632)
 - Email: 
   - jmrowicki@alchemictech.com
   - alchemictechnology@gmail.com
