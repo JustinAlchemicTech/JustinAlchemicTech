@@ -9,6 +9,10 @@
   <a href="https://alchemictechnology.com/"><strong>🌐 Main Showcase: Alchemic Technology</strong></a>
 </p>
 
+<p align="center">
+  🏆 Building in the OpenClaw ecosystem — a top-performing agentic framework on <a href="https://clawbench.net/">ClawBench</a> with leaderboard runs reaching perfect scores.
+</p>
+
 ---
 
 ## 🚀 About Me
