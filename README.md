@@ -1,5 +1,4 @@
 <h1 align="center">Hi, I'm Justin 👋</h1>
-<h3 align="center">AI Engineer • AI Enthusiast • AI Researcher • Founder of Alchemic Technology</h3>
 
 <p align="center">
   I build AI-powered products, agentic systems, workflow automations, and self-hosted infrastructure designed for real-world impact.
