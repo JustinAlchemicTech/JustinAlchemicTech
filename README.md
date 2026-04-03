@@ -36,6 +36,13 @@ My primary showcase for AI products, automation systems, digital tools, technica
 
 ---
 
+## 💪 NerdFit
+
+### **[NerdFit](https://nerdfit.alchemictechnology.com/)**
+A health-focused digital brand built to make wellness feel more engaging, motivating, and accessible — with a bold, gaming-inspired identity and a strong emphasis on consistency, accountability, and momentum.
+
+---
+
 ## 🤖 AI & Agentic Engineering Projects
 
 - [Simple Custom GPT JARVIS Chatbot Interface](https://github.com/JustinAlchemicTech/Simple-Custom-GPT-Chatbot-WORKING)
