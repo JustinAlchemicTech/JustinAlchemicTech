@@ -65,12 +65,12 @@ My primary showcase for AI products, automation systems, digital tools, technica
 ## 📰 Writing & Published Work
 
 ### Selected Blog Posts
-- [Unleashing Your eCommerce Potential with Printful: The Ultimate Print-on-Demand Solution for Your Business](https://www.alchemictech.com/printful-ecommerce-potential)
-- [The Positive Future of ChatGPT and AI: Unlocking Endless Possibilities](https://www.alchemictech.com/positive-future-chatgpt-ai)
-- [Boost your Computer's Performance](https://www.alchemictech.com/boost-your-computers-performance)
-- [Top 5 Web Hosting Companies for 2023 - A Comprehensive Review](https://alchemictech.com/top-5-web-hosting-companies-for-2023-a-comprehensive-review)
-- [NIST Cybersecurity Framework: A Basic Comprehensive Guide to Enhance Your Organization's Cyber Defense Strategy](https://alchemictech.com/nist-cybersecurity-framework-a-basic-comprehensive-guide-to-enhance-your-organizations-cyber-defense-strategy)
-- [10 Easy Steps to Secure Your Data and Online Accounts: A Guide for the Average Person](https://alchemictech.com/10-easy-steps-to-secure-your-data-and-online-accounts-a-guide-for-the-average-person)
+- [How to Set Up OpenClaw in 30 Minutes (Complete 2026 Guide)](https://alchemictechnology.com/blog/posts/setup-openclaw-30-minutes.html)
+- [OpenClaw vs ChatGPT vs n8n: Which AI Tool Actually Fits Your Workflow in 2026?](https://alchemictechnology.com/blog/posts/openclaw-vs-chatgpt-vs-n8n.html)
+- [MCP Servers Explained: Give Your AI Agent Real Tools (Not Just Chat)](https://alchemictechnology.com/blog/posts/mcp-servers-explained.html)
+- [The Blueprint for Multi-Agent Systems That Actually Improve Over Time](https://alchemictechnology.com/blog/posts/multi-agent-optimization-blueprint.html)
+- [Your AI Agent's Memory Can Be Poisoned — Here's How to Defend It](https://alchemictechnology.com/blog/posts/ai-memory-poisoning-defense.html)
+- [The State of Open Source AI in 2026: China's Rise, Robotics Explosion, and a New Builder Playbook](https://alchemictechnology.com/blog/posts/state-of-open-source-ai-spring-2026.html)
 
 ---
 
