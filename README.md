@@ -1,4 +1,8 @@
 <p align="center">
+  <img src="./assets/alchemic-technology-header.jpg" alt="Alchemic Technology" width="720" />
+</p>
+
+<p align="center">
   I build AI-powered products, agentic systems, workflow automations, and self-hosted infrastructure designed for real-world impact.
 </p>
 
