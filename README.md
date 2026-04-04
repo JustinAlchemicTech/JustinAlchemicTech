@@ -1,5 +1,3 @@
-<h1 align="center">Hi, I'm Justin 👋</h1>
-
 <p align="center">
   I build AI-powered products, agentic systems, workflow automations, and self-hosted infrastructure designed for real-world impact.
 </p>
