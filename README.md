@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/alchemic-technology-header-v6.png" alt="Alchemic Technology" width="720" />
+  <img src="./assets/alchemic-technology-header-v7.png" alt="Alchemic Technology" width="720" />
 </p>
 
 <p align="center">
